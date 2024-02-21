@@ -1,18 +1,27 @@
 # Contract using Require,Revert and Assert
 Description
+
 This Solidity smart contract, Account, provides basic functionalities for account management on the Ethereum blockchain. It allows users to deposit and withdraw funds from their account securely, handling overflow and underflow conditions to prevent loss of funds.
 
 Getting Started
+
 Installing
+
 To use this contract, you'll need to integrate it into your Ethereum project. You can download or copy the contract code and include it in your Solidity project.
 
 Executing program
+
 To interact with the Account contract, you'll need to deploy it to the Ethereum blockchain. Here are the steps to deploy and interact with the contract:
 
 Deploy the contract using your preferred Ethereum development framework or platform.
+
 Once deployed, you can interact with the contract using Ethereum-compatible wallets or through other smart contracts.
+
+
 Call the deposit function to add funds to the account.
+
 Call the withdraw function to withdraw funds from the account.
+
 Example Solidity code to interact with the contract:
 
 solidity
